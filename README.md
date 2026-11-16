@@ -26,34 +26,34 @@ One end-to-end QA story: **requirements → test cases (Jira) → manual executi
 
 | # | Project | What it shows |
 |---|---------|---------------|
-| 1 | [python-projects](https://github.com/Cheetahrevive/python-projects) | Python fundamentals, problem-solving, and code organization — with pytest tests |
-| 2 | [ecommerce-qa-testing](https://github.com/Cheetahrevive/ecommerce-qa-testing) | Manual QA portfolio: requirements, test plan, 24 test cases, defect tracking, execution reports, Jira traceability |
-| 3 | [sql-portfolio](https://github.com/Cheetahrevive/sql-portfolio) | SQL retrieval, filtering, joins, aggregations, subqueries, and QA data-validation queries |
-| 4 | [javascript-fundamentals](https://github.com/Cheetahrevive/javascript-fundamentals) | Functions, arrays, objects, JSON, error handling, and async programming |
-| 5 | [postman-api-testing](https://github.com/Cheetahrevive/postman-api-testing) | Postman + JavaScript API testing on the Simple Tool Rental API, with a runnable local test suite |
-| 6 | [playwright-testing](https://github.com/Cheetahrevive/playwright-testing) | Playwright + JavaScript automation of SauceDemo using the Page Object Model |
+| 1 | [python-projects](https://github.com/ravi-kalagara/python-projects) | Python fundamentals, problem-solving, and code organization — with pytest tests |
+| 2 | [ecommerce-qa-testing](https://github.com/ravi-kalagara/ecommerce-qa-testing) | Manual QA portfolio: requirements, test plan, 24 test cases, defect tracking, execution reports, Jira traceability |
+| 3 | [sql-portfolio](https://github.com/ravi-kalagara/sql-portfolio) | SQL retrieval, filtering, joins, aggregations, subqueries, and QA data-validation queries |
+| 4 | [javascript-fundamentals](https://github.com/ravi-kalagara/javascript-fundamentals) | Functions, arrays, objects, JSON, error handling, and async programming |
+| 5 | [postman-api-testing](https://github.com/ravi-kalagara/postman-api-testing) | Postman + JavaScript API testing on the Simple Tool Rental API, with a runnable local test suite |
+| 6 | [playwright-testing](https://github.com/ravi-kalagara/playwright-testing) | Playwright + JavaScript automation of SauceDemo using the Page Object Model |
 
-All six projects run in CI on every push. The combined version lives in [qa-projects](https://github.com/Cheetahrevive/qa-projects).
+All six projects run in CI on every push. The combined version lives in [qa-projects](https://github.com/ravi-kalagara/qa-projects).
 
 ## 🤖 AI & Automation Frameworks
 
 | Project | What it is |
 |---------|------------|
-| [UI-API-AI-Agentic-Testing](https://github.com/Cheetahrevive/UI-API-AI-Agentic-Testing) | Enterprise-grade Playwright + API + AI agentic testing framework (TypeScript) |
-| [ai-qa-sprint](https://github.com/Cheetahrevive/ai-qa-sprint) | My AI-QA sprint workspace: Python API testing, LLM harness work, and the QA Projects portfolio |
-| [playwright-typescript-e2e-framework](https://github.com/Cheetahrevive/playwright-typescript-e2e-framework) | Playwright + TypeScript E2E framework with Page Object Model |
-| [python-pytest-bdd-framework](https://github.com/Cheetahrevive/python-pytest-bdd-framework) | Python + Pytest BDD automation framework with Selenium |
-| [Automation_Testing_Playwright_JS](https://github.com/Cheetahrevive/Automation_Testing_Playwright_JS) | Playwright automation framework in JavaScript |
+| [UI-API-AI-Agentic-Testing](https://github.com/ravi-kalagara/UI-API-AI-Agentic-Testing) | Enterprise-grade Playwright + API + AI agentic testing framework (TypeScript) |
+| [ai-qa-sprint](https://github.com/ravi-kalagara/ai-qa-sprint) | My AI-QA sprint workspace: Python API testing, LLM harness work, and the QA Projects portfolio |
+| [playwright-typescript-e2e-framework](https://github.com/ravi-kalagara/playwright-typescript-e2e-framework) | Playwright + TypeScript E2E framework with Page Object Model |
+| [python-pytest-bdd-framework](https://github.com/ravi-kalagara/python-pytest-bdd-framework) | Python + Pytest BDD automation framework with Selenium |
+| [Automation_Testing_Playwright_JS](https://github.com/ravi-kalagara/Automation_Testing_Playwright_JS) | Playwright automation framework in JavaScript |
 
 ## 🧰 More Frameworks & Tools
 
 | Project | What it is |
 |---------|------------|
-| [Ecommerce_Selenium_Cucumber_Java](https://github.com/Cheetahrevive/Ecommerce_Selenium_Cucumber_Java) | E2E Selenium + Cucumber BDD framework for e-commerce (Java) |
-| [selenium-java-api-testng](https://github.com/Cheetahrevive/selenium-java-api-testng) | Selenium + Java API automation with TestNG, RestAssured, Maven |
-| [Automated_Health_Monitoring_Suite](https://github.com/Cheetahrevive/Automated_Health_Monitoring_Suite) | Automated health-monitoring suite with GitHub Actions |
-| [Automated-Job-Search-and-Apply](https://github.com/Cheetahrevive/Automated-Job-Search-and-Apply) | Python CLI: job search, fit scoring, and local application tracking — approval-gated, never auto-submits |
-| [qa-job-automation-agent](https://github.com/Cheetahrevive/qa-job-automation-agent) | AI-powered QA job-search automation agent with a web dashboard |
+| [Ecommerce_Selenium_Cucumber_Java](https://github.com/ravi-kalagara/Ecommerce_Selenium_Cucumber_Java) | E2E Selenium + Cucumber BDD framework for e-commerce (Java) |
+| [selenium-java-api-testng](https://github.com/ravi-kalagara/selenium-java-api-testng) | Selenium + Java API automation with TestNG, RestAssured, Maven |
+| [Automated_Health_Monitoring_Suite](https://github.com/ravi-kalagara/Automated_Health_Monitoring_Suite) | Automated health-monitoring suite with GitHub Actions |
+| [Automated-Job-Search-and-Apply](https://github.com/ravi-kalagara/Automated-Job-Search-and-Apply) | Python CLI: job search, fit scoring, and local application tracking — approval-gated, never auto-submits |
+| [qa-job-automation-agent](https://github.com/ravi-kalagara/qa-job-automation-agent) | AI-powered QA job-search automation agent with a web dashboard |
 
 ---
 
